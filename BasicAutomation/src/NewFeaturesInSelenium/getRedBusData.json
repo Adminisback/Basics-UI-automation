@@ -1,0 +1,15 @@
+[
+ {
+    "fromCityName" : "Chop",
+    "expectedNameToSelect" : "Chopda"
+ 
+},
+ {
+   "toCityName" : "Nashik Pha",
+   "expectedNameToSelectedCity" : "Nashik Phata"
+ },
+ {
+   "monthName" : "Oct 2024"
+ 
+ }
+]
